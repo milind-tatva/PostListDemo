@@ -1,0 +1,6 @@
+framework module Pods_PostListDemo {
+  umbrella header "Pods-PostListDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
